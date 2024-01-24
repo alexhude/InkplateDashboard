@@ -96,9 +96,10 @@ Congrats! You can go to settings now, change PIN, enable frontlight etc.
 
 ## Using
 
-[**Quick Video Overview**](https://?/)
+**Quick Video Overview on [YouTube](https://www.youtube.com/watch?v=4wEgwbuTBk4)**  
+[![**Quick Video Overview**](https://img.youtube.com/vi/4wEgwbuTBk4/0.jpg)](https://www.youtube.com/watch?v=4wEgwbuTBk4)
 
-[**Manual**](./MANUAL.md)
+[**User Manual**](./MANUAL.md)
 
 ## Building
 
@@ -112,7 +113,12 @@ Some useful `config.hpp` options:
 ## Roadmap
 
 * user friendly firmware installer
-* UI for setting RTC date/time
 * built-in webserver to configure everything remotely
 * support screen-time rollover weekday other than Monday
 * many more
+
+## Support
+
+Become a patron, by simply clicking on this button:
+
+[![](https://c5.patreon.com/external/logo/become_a_patron_button.png)](https://patreon.com/InkplateDashboard)
